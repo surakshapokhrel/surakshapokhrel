@@ -103,10 +103,21 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=surakshapokhrel&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=surakshapokhrel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=surakshapokhrel&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+
+<!-- GitHub Stats -->
+![](https://github-readme-stats.vercel.app/api?username=surakshapokhrel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<!-- GitHub Streak -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=surakshapokhrel&theme=tokyonight&hide_border=false)<br/>
+
+<!-- Top Languages -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=surakshapokhrel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- Profile Views Counter -->
+[![](https://komarev.com/ghpvc/?username=surakshapokhrel&color=blue&style=flat-square)](https://github.com/yourusername)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=surakshapokhrel&icon=1&color=0)](https://visitcount.itsvg.in)
 
