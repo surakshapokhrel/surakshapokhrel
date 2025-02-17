@@ -21,7 +21,14 @@
      <a href="https://www.instagram.com/pokhrelsuraksha_/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
     </a>
-    
+    <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
+  </a>
+     <!-- Raspberry Pi -->
+  <a href="https://www.raspberrypi.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> 
+  </a> 
 </p>
 
 - ⚡ Fun fact **I think I am funny and stupid**
