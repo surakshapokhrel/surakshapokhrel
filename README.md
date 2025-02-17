@@ -23,9 +23,9 @@
 </p>
 
 - ⚡ Fun fact **I think I am funny and stupid**
-- 
-- <h3 align="left">Languages and Tools:</h3>
-## 🚀 Languages & Tools:
+  
+- <h3 align="left">🚀 Languages and Tools:</h3>
+
 
 <p align="left"> 
   <!-- C -->
