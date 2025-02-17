@@ -21,14 +21,7 @@
      <a href="https://www.instagram.com/pokhrelsuraksha_/" target="_blank">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
     </a>
-    <!-- Arduino -->
-  <a href="https://www.arduino.cc/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-  </a>
-     <!-- Raspberry Pi -->
-  <a href="https://www.raspberrypi.org/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> 
-  </a> 
+ 
 </p>
 
 - ⚡ Fun fact **I think I am funny and stupid**
@@ -66,6 +59,15 @@
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
   </a> 
+  <!-- React Router -->
+  <a href="https://reactrouter.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Router" width="40" height="40"/> 
+  </a> 
+
+  <!-- React Hook Form -->
+  <a href="https://react-hook-form.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Hook Form" width="40" height="40"/> 
+  </a> 
   
   <!-- Bootstrap -->
   <a href="https://getbootstrap.com/" target="_blank"> 
@@ -99,6 +101,14 @@
   <a href="https://mui.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI (Material-UI)" width="40" height="40"/> 
   </a>
+     <!-- Arduino -->
+  <a href="https://www.arduino.cc/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
+  </a>
+     <!-- Raspberry Pi -->
+  <a href="https://www.raspberrypi.org/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> 
+  </a> 
   
 </p>
 
