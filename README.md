@@ -98,7 +98,15 @@
      <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.org/" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" alt="Raspberry Pi" width="40" height="40"/> 
-  </a> 
+  </a>
+  <!-- Latex -->
+  <a href="https://www.latex-project.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" width="40" height="40"/>
+</a>
+<!-- AWS -->
+<a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+</a>
   
 </p>
 
